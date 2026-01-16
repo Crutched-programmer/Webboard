@@ -1,0 +1,9 @@
+
+{
+  "name": "WebBoard",
+  "description": "A high-end virtual MIDI keyboard and synthesizer with AI-powered patch analysis, real-time audio controls, and a sleek hardware-inspired interface.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
